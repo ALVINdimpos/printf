@@ -1,6 +1,5 @@
 # _printf
 
-This is a project created by Abeeb Raheem and Georgina Kalu.
 
 The _printf() is a function that works like the printf() 
 function in C standard library which performs formatted 
